@@ -1,0 +1,851 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lista",
+				"listaDirectorios"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"registered",
+				"registeredTools"
+			],
+			[
+				"regis",
+				"registeredTools"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"para",
+				"parametro"
+			],
+			[
+				"bytes_escritos_mem",
+				"bytes_escritos_memebersCSVIniciales"
+			],
+			[
+				"members",
+				"membersCSVIniciales"
+			],
+			[
+				"technica",
+				"technicalstaff"
+			],
+			[
+				"external",
+				"externalcollaborators"
+			],
+			[
+				"resear",
+				"researchStaff"
+			],
+			[
+				"arrayCSV",
+				"arrayCSVIniciales"
+			],
+			[
+				"cre",
+				"creaElemento"
+			],
+			[
+				"enlaceA",
+				"enlaceADefaultWeb"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"contador",
+				"contadorResto"
+			],
+			[
+				"in-",
+				"inline-table"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"miP",
+				"miPaginadoInicial()"
+			],
+			[
+				"array",
+				"arrayCSVMembers"
+			],
+			[
+				"arr",
+				"arrayCSVMembers"
+			],
+			[
+				"tipo",
+				"tipoDeMiembro"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"fe",
+				"fechaFormateada"
+			],
+			[
+				"ca",
+				"caractervacio"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"enla",
+				"enlaceHerramienta"
+			],
+			[
+				"des",
+				"descripcionHerramienta"
+			],
+			[
+				"arra",
+				"arrayHerramientas"
+			],
+			[
+				"enl",
+				"enlaceHerramienta"
+			],
+			[
+				"include_",
+				"set_include_path"
+			],
+			[
+				"include_pat",
+				"get_include_path"
+			],
+			[
+				"enlaceLoo",
+				"enlaceLogoUniversidad"
+			],
+			[
+				"enlaceLogo",
+				"enlaceLogoUniversidad"
+			],
+			[
+				"enlace",
+				"enlaceLogoGrupo"
+			],
+			[
+				"ite",
+				"iteGrupo"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"enlaceI",
+				"enlaceInstitucion"
+			],
+			[
+				"enlaceIn",
+				"enlaceInstitucion2"
+			],
+			[
+				"logo",
+				"logoGrandeInstitucion"
+			],
+			[
+				"estilo",
+				"estilo-div-participantes-responsive"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"h6",
+				"h6-participantes-right"
+			],
+			[
+				"res",
+				"responsive-iframe-container-outline"
+			],
+			[
+				"respo",
+				"responsive-iframe-container-outline"
+			],
+			[
+				"fi",
+				"ficheroOrigen"
+			],
+			[
+				"qs_tab",
+				"qs_tableTotal"
+			],
+			[
+				"inline",
+				"inline-table"
+			],
+			[
+				"nom",
+				"nombreInstitucion"
+			],
+			[
+				"col-xs",
+				"col-xs-offset-2"
+			],
+			[
+				"nombre",
+				"nombreCoordinador"
+			],
+			[
+				"en",
+				"enlaceUniversidad"
+			],
+			[
+				"sig",
+				"siglasUniversidad"
+			],
+			[
+				"si",
+				"siglasInstitucion"
+			],
+			[
+				"siglas",
+				"siglasInstitucion"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"im",
+				"imagenDeHerramienta"
+			],
+			[
+				"value",
+				"valueHerramientaCSV"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"elace",
+				"enlaceLogoHerramienta"
+			],
+			[
+				"cta-sec",
+				"cta-section2"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"color",
+				"color_cerulean_approx"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"sub",
+				"substring(from, to?)"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "paca",
+		"selected_items":
+		[
+			[
+				"paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"Emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf,'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Google Drive/Curso 2015-2016/SSII",
+		"/D/Google Drive/Curso 2015-2016/SSII/config",
+		"/D/Google Drive/Curso 2015-2016/SSII/datatype"
+	],
+	"file_history":
+	[
+		"/D/Google Drive/Curso 2015-2016/SSII/config/ModuloConfigurador.py",
+		"/D/Google Drive/Curso 2015-2016/SSII/datatype/HashingData.py",
+		"/D/Google Drive/Curso 2015-2016/SSII/config/__init__.py",
+		"/D/Google Drive/Curso 2015-2016/SSII/hasher.py",
+		"/D/Google Drive/Curso 2015-2016/SSII/salida.txt",
+		"/D/PythonProjects/HasherSSII/salida.txt",
+		"/D/PythonProjects/HasherSSII/config/Configurador.py",
+		"/D/PythonProjects/08 IO/io.py",
+		"/D/PythonProjects/07 Modulos/modulos.py",
+		"/D/PythonProjects/07 Modulos/leeme.txt",
+		"/D/PythonProjects/08 Modulos/modulos.py",
+		"/D/PythonProjects/06 Excepciones/excepciones.py",
+		"/D/PythonProjects/06 Excepciones/excepciones.ty",
+		"/D/PythonProjects/04 Objetos/objetos.py",
+		"/D/PythonProjects/04 Objetos/leeme.txt",
+		"/D/PythonProjects/03 Orientacion a Objetos/leeme.txt",
+		"/D/PythonProjects/03 Orientacion a Objetos/oop.py",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/MarcosAlberto/Desktop/list.txt",
+		"/F/.cm0013",
+		"/D/Google Drive/Facultad/Histórico/5/Proyecto Fin de Carrera/Entrega/ejecutable/mysite/buscador/spiders/pdfsIX/spiderPDFCompleto.py",
+		"/D/Google Drive/Facultad/Histórico/5/Proyecto Fin de Carrera/Entrega/ejecutable/mysite/buscador/spiders/pdfsIX/indexer.py",
+		"/D/Google Drive/Facultad/Histórico/5/Proyecto Fin de Carrera/Entrega/ejecutable/mysite/buscador/spiders/pdfsX/downloader.py",
+		"/C/xampp/htdocs/pruebasSass/style2.sass",
+		"/C/xampp/htdocs/pruebasSass/Notas.txt",
+		"/C/xampp/htdocs/pruebasSass/style.scss",
+		"/C/xampp/htdocs/pruebasSass/index.html",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/README.md",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/workspace/mysiteTFG/buscador/static/css/style.scss",
+		"/C/Users/MarcosAlberto/Downloads/Untitled Project.json",
+		"/C/xampp/htdocs/rcis/scss/style.scss",
+		"/C/Users/MarcosAlberto/Desktop/software1.txt",
+		"/C/Users/MarcosAlberto/Google Drive/Drupal Summer/DrupalAcademy Sesión 8/Notas.txt",
+		"/D/Mi Porno/Bajadas.txt",
+		"/C/Users/MarcosAlberto/Desktop/software5.txt",
+		"/C/Users/MarcosAlberto/Desktop/software4",
+		"/C/Users/MarcosAlberto/Desktop/software3.txt",
+		"/C/Users/MarcosAlberto/Desktop/software2.txt",
+		"/F/Copia Seguridad Linux/Instalación Linux",
+		"/C/xampp/htdocs/webisa/tools/tools2.php",
+		"/C/xampp/htdocs/webisa/css/style.css",
+		"/C/xampp/htdocs/webisa/index2.php",
+		"/C/xampp/htdocs/webisa/js/theme.js",
+		"/C/Users/MarcosAlberto/Desktop/Plantillas Parallax/Plantilla Parallax 01/demo.imransdesign.com/unika/index.html",
+		"/C/xampp/htdocs/webisa/index.php",
+		"/C/xampp/htdocs/webisa/emailOfuscation.php",
+		"/C/xampp/htdocs/webisa/publications/tablaPublications.php",
+		"/C/xampp/htdocs/webisa/leeJson.php",
+		"/C/xampp/htdocs/webisa/fetching.php",
+		"/C/xampp/htdocs/webisa/js/manejoMembers.js",
+		"/C/xampp/htdocs/webisa/leeFundingJson.php",
+		"/C/xampp/htdocs/webisa/publications/manejoDeTabla.js",
+		"/C/xampp/htdocs/rcis/css/style.scss",
+		"/C/xampp/htdocs/rcis/css/style.css",
+		"/C/xampp/htdocs/rcis/tablaTotal.php",
+		"/C/xampp/htdocs/rcis/tablaResumen.php",
+		"/C/xampp/htdocs/webisa/css/estilo-slider-herramientas.css",
+		"/C/xampp/htdocs/webisa/leeResearchCSV.php",
+		"/C/xampp/htdocs/webisa/leeCollaborationsCSV.php",
+		"/C/xampp/htdocs/webisa/tools/toolsSlider.php",
+		"/C/xampp/htdocs/webisa/publications/searcher.js",
+		"/C/xampp/htdocs/webisa/tools/tools.php",
+		"/C/xampp/htdocs/bootstrap/02grid/index.html",
+		"/C/Users/MarcosAlberto/Downloads/Tools - Sheet1.csv",
+		"/C/xampp/htdocs/webisa/css/skin/cool-gray.css",
+		"/C/xampp/htdocs/webisa/css/mobile.css",
+		"/C/xampp/htdocs/webisa/fundingCSV.php",
+		"/C/xampp/htdocs/webisa/fetchData.php",
+		"/C/xampp/htdocs/webisa/checkCredentials.php",
+		"/C/xampp/htdocs/webisa/js/manejoSliderHerramientas.js",
+		"/C/xampp/htdocs/webisa/publications/lectorPublicationsJSON.php",
+		"/C/xampp/htdocs/rcis/listaHerramientas.php",
+		"/C/xampp/htdocs/rcis/sliderHerramientasResponsive.html",
+		"/C/xampp/htdocs/rcis/cuerpoindex.html",
+		"/C/xampp/htdocs/webisa/tools/toolsSliderResponsive.php",
+		"/C/xampp/htdocs/rcis/js/manejoSliderHerramientas.js",
+		"/C/xampp/htdocs/webisa/tools/tools.csv",
+		"/C/xampp/htdocs/rcis/sliderHerramientasJSON.php",
+		"/C/Users/MarcosAlberto/Desktop/descargas.html",
+		"/C/xampp/htdocs/webisa/fundingCSVPublicPrivate.php",
+		"/C/xampp/htdocs/webisa/fundingCSVAll.php",
+		"/C/xampp/htdocs/webisa/publications/publications.csv",
+		"/C/xampp/htdocs/rcis/index.php",
+		"/C/xampp/htdocs/rcis/js/manejoDeTablas.js",
+		"/C/xampp/htdocs/rcis/test-table-TotalOriginal.html",
+		"/C/xampp/htdocs/webisa/tools/tools.xlsx - Hoja1.csv",
+		"/C/xampp/htdocs/webisa/tools/tools2.csv",
+		"/C/xampp/htdocs/rcis/index.html",
+		"/C/xampp/htdocs/webisa/index.html",
+		"/C/Users/MarcosAlberto/Desktop/Plantillas Parallax/Plantilla Parallax 01/portal-herramientas.appspot.com/template4/css/style.css",
+		"/C/xampp/htdocs/archivos_base/Emmet/layout2.html",
+		"/C/Users/criperrui/Desktop/sesion9",
+		"/C/xampp/htdocs/rcis/participantesCSV.php",
+		"/C/xampp/htdocs/rcis/enviarEmail.php",
+		"/C/xampp/htdocs/rcis/css/estilo-slider-herramientas.css",
+		"/C/xampp/htdocs/rcis/js/manejoOutline.js",
+		"/C/xampp/htdocs/rcis/logged.php",
+		"/C/xampp/htdocs/rcis/outliner.js",
+		"/C/xampp/htdocs/rcis/tablaPrueba.php",
+		"/C/Users/criperrui/Downloads/publicaciones-rcis (1).table",
+		"/C/xampp/htdocs/rcis/js/cambiaVistaRecursosDrive.js",
+		"/C/xampp/htdocs/rcis/css/skin/cool-gray.scss",
+		"/C/xampp/htdocs/rcis/logged.html",
+		"/C/xampp/htdocs/rcis/popupsEmails.php",
+		"/C/xampp/htdocs/rcis/errorlogin.php",
+		"/C/xampp/htdocs/rcis/test-table-ResumenOriginal.html",
+		"/C/xampp/htdocs/rcis/lectorCSV.php",
+		"/C/xampp/htdocs/rcis/sliderHerramientasJSON.html",
+		"/C/Users/criperrui/Google Drive/Drupal Summer/Sesión7Cris.txt",
+		"/C/xampp/htdocs/rcis/scriptsSliderHerramientasFinales.html",
+		"/C/xampp/htdocs/rcis/Popover requires tooltip.html",
+		"/C/xampp/htdocs/rcis/test-table-Resumen.html",
+		"/C/xampp/htdocs/rcis/css/mobile.css",
+		"/C/xampp/htdocs/rcis/test-table-pro.html",
+		"/C/xampp/htdocs/rcis/css/skinGlobal.scss",
+		"/C/xampp/htdocs/pruebaScandirphp/index.php",
+		"/C/xampp/htdocs/rcis/indexOutline.html",
+		"/C/xampp/htdocs/pruebaOutliner/index.html",
+		"/C/Users/criperrui/Downloads/index.html",
+		"/C/xampp/htdocs/rcis/js/theme.js",
+		"/C/xampp/htdocs/parallax/index2.html",
+		"/C/xampp/htdocs/rcis/publicaciones-rcis.html",
+		"/C/xampp/htdocs/rcis/css/style_demo.css",
+		"/C/xampp/htdocs/rcis/index3.html",
+		"/C/xampp/htdocs/parallax/index3.html",
+		"/C/xampp/htdocs/parallax/style_demo.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2013",
+			"Office 2013",
+			"Project",
+			"2013",
+			"Visual Studio 2015",
+			"Windows 7",
+			"Windows 8",
+			"j",
+			"portfolio",
+			"resea",
+			"researchAssistants",
+			"research",
+			"[3]",
+			"PDF",
+			"member",
+			"localhost",
+			"img-respnsive-capturas",
+			"img-respnsive",
+			"phd",
+			"msc",
+			"reseachAss",
+			"navbar-nav",
+			"col-md-4 col-sm-4",
+			"col-md-3 col-sm-3",
+			"active_prot_menu",
+			"active-prot-menu",
+			"avatar-members",
+			"estilo-funding",
+			"echo",
+			"portfolio-sec",
+			"logo",
+			"herramientas",
+			"Tools",
+			"logo",
+			"testimonial",
+			"extra",
+			"extra-space-1",
+			"cola",
+			"colalb",
+			"colabo",
+			"white",
+			"navbar-brand",
+			"enlaceLogoGrupo",
+			"logos-slider",
+			"button",
+			"hre",
+			"participantes",
+			"h6",
+			"h5",
+			"vez",
+			"collapse",
+			"scroll",
+			"22%",
+			";\n",
+			"thead",
+			"bnt-default",
+			"boton-vista-drive",
+			"bt",
+			"by",
+			"button",
+			"img-responsive",
+			"slider",
+			"//$",
+			"texto-slider",
+			"jquery",
+			"jq",
+			"jquer",
+			"collapse",
+			"display",
+			"display:",
+			"colapse",
+			"<div class=\"extra-space-l\"></div>",
+			"extra",
+			"text-carousel",
+			"cta",
+			"cta-",
+			"back",
+			";\n",
+			"outl",
+			"\");\n",
+			"ico",
+			"ico ",
+			"cta-s",
+			".css",
+			".cc",
+			"owl-demo",
+			"owl-wrapp",
+			"participantes",
+			"botonFlip",
+			"center",
+			"demo",
+			"jMyCarousel",
+			"style_demo.css",
+			"jMyCarousel",
+			"@me",
+			"backgro",
+			"backg",
+			"height",
+			".link",
+			".testi",
+			"dropdown",
+			"dropdown-",
+			"dropdown-t",
+			"dropd",
+			"navLogin",
+			"nav",
+			"media",
+			"font",
+			"text-ca",
+			"#cta-section",
+			"section",
+			"PPINOT",
+			"section",
+			"test",
+			"testi",
+			"testim",
+			"car",
+			"Themetori",
+			"text-ca",
+			"#cta-section",
+			"about-section",
+			"size",
+			".*\\n.*\\n",
+			"Maurit",
+			"Afghanistan",
+			"Mauritius",
+			";",
+			","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"www.isa.us.es",
+			"col-md-4 col-sm-6",
+			"col-md-4 col-sm-4",
+			"img-responsive avatar-members",
+			"estilo-members",
+			",",
+			"",
+			",",
+			"",
+			",",
+			"127.0.0.1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.active_lines_compare":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 76.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HasherSSII.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,6 @@
+﻿<configuracion>
+	<ruta>C:\Ruby21</ruta>
+	<intervalo>0</intervalo>
+	<metodo>sha512</metodo>
+	<verbose>True</verbose>
+</configuracion>
