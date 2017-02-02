@@ -1,4 +1,8 @@
 # hasher35
-Command line application for hashing paths (For Python 3.5.X+).
+Command line application for hashing paths (For Python 3.5.X+) for security systems.
 
-TODO
+To run it:
+
+Setting the file configuration.xml and run:
+
+$ python hasher.py
